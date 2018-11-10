@@ -1,0 +1,27 @@
+1
+Data structure
+5
+Algorithm
+Binary tree
+Linked List
+2
+Sort
+Bubble sort
+binary search
+8
+Heap
+1 
+algorithm
+Linked list
+iterator
+3
+algorithm
+15
+integer
+Bool
+tuple
+99
+recursion
+89
+recursion
+bool
